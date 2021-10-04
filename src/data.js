@@ -21,16 +21,19 @@ export const sliderItems = [
       id: 1,
       img: "https://www.fondationeczema.org/sites/default/files/2020-07/football-760x614px.jpg",
       title: "FOOTBALL",
+      cat:"football"
     },
     {
       id: 2,
       img: "https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Ffac.2F2020.2F08.2F21.2Fe5c39a5f-5ede-4f2d-a916-045dc6b36489.2Ejpeg/850x478/quality/90/crop-from/center/running-la-routine-ideale-pour-bruler-plus-de-calories.jpeg",
       title: "RUNNING",
+      cat: "running"
     },
     {
       id: 3,
       img: "https://www.sharkfitness.ch/img/wecke-den-shark-in-dir_5f881b5ae2279.jpg",
       title: "FITNESS",
+      cat:"fitness"
     },
   ];
 
